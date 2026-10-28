@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OpenDTU is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/tbnobody/OpenDTU
+OpenDTU provides open-source firmware for solar inverters, enabling local monitoring and control without reliance on cloud services. The project supports ESP32-based hardware, offers a web UI, MQTT integration, and a documented Web API for retrieving inverter data, configuring settings, and managing devices. It targets DIY solar enthusiasts and small installations seeking transparent, self-hosted energy monitoring solutions.
+
+**Areas:** solar · firmware · open-source · iot · energy-monitoring
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.opendtu.solar/)
+- [Documentation](https://github.com/tbnobody/OpenDTU-docs/raw/master/docs/index.md)
+- [API reference](https://www.opendtu.solar/firmware/web_api/)
+- [Support](https://www.opendtu.solar/#support)
+- [GitHub](https://github.com/tbnobody)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/opendtu/](https://apis.io/providers/opendtu/).
